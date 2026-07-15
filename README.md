@@ -21,7 +21,7 @@
 </div>
 
 <div style="width: 200px;">
-<a href="https://github.com/MatheusViniciusDiasAlves/github-readme-stats">
+<a href="https://github.com/MatheusViniciusDiasAlves/MatheusViniciusDiasAlves/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusViniciusDiasAlves&langs_count=8" alt="Top Langs" />
 </a>
 </div>
