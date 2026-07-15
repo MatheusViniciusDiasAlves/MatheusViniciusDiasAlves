@@ -12,8 +12,9 @@
   <img align="center" alt="Matheus-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Matheus-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> 
   <img align="center" alt="Matheus-AF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+  <img align="center" alt="Matheus-AF" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+          
           
   
   
