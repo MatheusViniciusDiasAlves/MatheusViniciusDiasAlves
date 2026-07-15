@@ -18,16 +18,10 @@
   <img align="center" alt="Matheus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Matheus-QL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Matheus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
-          
-  
-  
-          
-            
-          
-  
-                   
-          
 </div>
 
-
+<div style="width: 200px;">
+<a href="https://github.com/MatheusViniciusDiasAlves/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusViniciusDiasAlves&langs_count=8" alt="Top Langs" />
+</a>
+</div>
