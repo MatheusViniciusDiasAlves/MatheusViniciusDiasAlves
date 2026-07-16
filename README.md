@@ -1,3 +1,5 @@
+## Sobre Mim
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatheusViniciusDiasAlves&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=MatheusViniciusDiasAlves&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
 ## 🤖​ LINGUAGENS E TECNOLOGIAS 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
