@@ -1,5 +1,13 @@
 ## 🤖 SOBRE MIM
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatheusViniciusDiasAlves&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical&v=2)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusViniciusDiasAlves&theme=react-dark)
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software
+- 💻 Desenvolvedor Full Stack
+- 🌱 Atualmente estudando Javasript, Python e React
+- 🚀 Quero crescer como desenvolvedor
 
 ## 🤖​ LINGUAGENS E TECNOLOGIAS 
 <div style="display: inline_block"><br>
