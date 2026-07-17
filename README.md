@@ -1,5 +1,5 @@
 ## 🤖 SOBRE MIM
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatheusViniciusDiasAlves&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical&v=2)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatheusViniciusDiasAlves&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical&v=3)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusViniciusDiasAlves&theme=react-dark)
 
 ## 👨‍💻 Sobre mim
