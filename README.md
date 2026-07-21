@@ -1,12 +1,12 @@
-## 🤖 SOBRE MIM
+## 🤖 MINHAS CONTRIBUIÇÕES 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusViniciusDiasAlves&theme=react-dark)
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 SOBRE MIM
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 - 💻 Desenvolvedor Full Stack
 - 🌱 Atualmente estudando Desenvolvimento de Softwares e Sites 
-- 🚀 Quero crescer como desenvolvedor
+- 🚀 Busco crescer na área de tecnologia e contribuir com o mercado  
 
 ## 🤖​ LINGUAGENS E TECNOLOGIAS 
 <div style="display: inline_block"><br>
