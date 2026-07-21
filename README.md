@@ -3,9 +3,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 - 💻 Desenvolvedor Full Stack
-- 🌱 Atualmente estudando Javasript, Python e React
+- 🌱 Atualmente estudando Desenvolvimento de Softwares e Sites 
 - 🚀 Quero crescer como desenvolvedor
 
 ## 🤖​ LINGUAGENS E TECNOLOGIAS 
