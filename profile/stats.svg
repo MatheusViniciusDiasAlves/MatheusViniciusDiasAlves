@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Matheus Vinicius Dias Alves ' GitHub Stats, Rank: C</title>
+        <title id="titleId">Matheus Vinicius Dias Alves &#39; GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 87, Total PRs: 0, Total Issues: 2, Contributed to (last year): 0</desc>
         <style>
           .header {
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Matheus Vinicius Dias Alves ' GitHub Stats</text>
+      >Matheus Vinicius Dias Alves &#39; GitHub Stats</text>
     </g>
       </g>
     
