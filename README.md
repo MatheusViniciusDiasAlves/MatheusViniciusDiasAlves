@@ -8,6 +8,12 @@
 
 ---
 
+## Matheus Vinícius Dias Alves
+
+Desenvolvedor Full-Stack — JavaScript, React, Node.js e MySQL.
+
+🔗 Portfólio: https://portfoliomatheusvinicius.netlify.app
+
 ## 🎯 Sobre Mim
 
 <div align="center">
