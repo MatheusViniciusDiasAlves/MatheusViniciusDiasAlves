@@ -12,7 +12,7 @@
 
 Desenvolvedor Full-Stack — JavaScript, React, Node.js e MySQL.
 
-🔗 Portfólio: https://portfoliomatheusvinicius.netlify.app
+🔗 Portfólio: https://portfolio.matheusviniciusdiasalves.workers.dev/
 
 ## 🎯 Sobre Mim
 
@@ -91,18 +91,6 @@ Desenvolvedor Full-Stack — JavaScript, React, Node.js e MySQL.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusViniciusDiasAlves&theme=react-dark)
-
-</div>
-
----
 
 ## 🌟 Principais Habilidades
 
