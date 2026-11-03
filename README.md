@@ -67,6 +67,7 @@ Desenvolvedor Full-Stack — JavaScript, React, Node.js e MySQL.
 ![Kali%20Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -99,7 +100,7 @@ Desenvolvedor Full-Stack — JavaScript, React, Node.js e MySQL.
 | 🎯 Área | 💡 Habilidades |
 |--------|---------------|
 | **Front-End** | HTML5, CSS3, JavaScript, TypeScript, React |
-| **Back-End** | Python, Node.js, APIs REST |
+| **Back-End** | Python, Node.js, APIs REST, Postman |
 | **Banco de Dados** | MySQL, PostgreSQL, SQL Server, Oracle |
 | **DevOps** | Docker, Linux, Git, CI/CD |
 | **Design** | UI/UX, Figma, Photoshop, Criatividade Visual |
